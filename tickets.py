@@ -7,7 +7,7 @@ while N>0:
           ticket=0
           S=S+ticket
           N=N-1
-        elif 18<=age<=25:
+        elif 18<=age<25:
           ticket=990
           S=S+ticket
           N=N-1
